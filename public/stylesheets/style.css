@@ -104,13 +104,13 @@ p {
     box-shadow: 2px 2px var(--dark);
 }
 
-.hero {
+.dash {
     padding: 3% 4%;
     background-color: var(--dark);
     color: var(--primary);
 }
 
-.hero p {
+.dash p {
     max-width: 75%;
 }
 
@@ -195,7 +195,6 @@ h4 {
     line-height: 1.25;
     float: top;
 }
-
 
 .form-label,
 .form-input,
