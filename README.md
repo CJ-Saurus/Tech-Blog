@@ -6,7 +6,7 @@ Build a CMS-style blog site similar to a Wordpress site, where developers can pu
 
 ## Screenshot
 
-<img src="/Users/christopherperez/bootcamp/Challenge-14/Tech-Blog/screenshot.png"/>
+<img src="/screenshot.png"/>
 
 ## Site
 
