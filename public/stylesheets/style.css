@@ -3,8 +3,8 @@
     --secondary: #dce9d5;
     --tertiary: #788585;
     --light-dark: #a1a0a1;
-    --dark: #201110;
-    --border-radius: .3rem;
+    --dark: #000000;
+    --border-radius: .5rem;
 }
 
 * {
